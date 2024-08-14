@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.8)  14 AUG 2024 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2023.8.8)  14 AUG 2024 16:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -708,48 +708,47 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 45.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
-<figures//image.jpg, id=16, 3011.25pt x 2007.5pt>
+{C:/Users/Usuario/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+ [2] [3] [4]
+<figures//image.jpg, id=23, 3011.25pt x 2007.5pt>
 File: figures//image.jpg Graphic file (type jpg)
 <use figures//image.jpg>
-Package pdftex.def Info: figures//image.jpg  used on input line 94.
+Package pdftex.def Info: figures//image.jpg  used on input line 96.
 (pdftex.def)             Requested size: 312.00119pt x 207.99089pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3]
-<figures//grafica1.png, id=21, 1027.84pt x 740.7675pt>
+<figures//grafica1.png, id=24, 1027.84pt x 740.7675pt>
 File: figures//grafica1.png Graphic file (type png)
 <use figures//grafica1.png>
-Package pdftex.def Info: figures//grafica1.png  used on input line 103.
+Package pdftex.def Info: figures//grafica1.png  used on input line 105.
 (pdftex.def)             Requested size: 155.99762pt x 112.4215pt.
-<figures//grafica2.png, id=22, 770.88pt x 770.88pt>
+<figures//grafica2.png, id=25, 770.88pt x 770.88pt>
 File: figures//grafica2.png Graphic file (type png)
 <use figures//grafica2.png>
-Package pdftex.def Info: figures//grafica2.png  used on input line 105.
+Package pdftex.def Info: figures//grafica2.png  used on input line 107.
 (pdftex.def)             Requested size: 155.99762pt x 155.99648pt.
- [4 <./figures//image.jpg>] [5 <./figures//grafica1.png> <./figures//grafica2.png>] [6]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 210.
+ [5 <./figures//image.jpg>] [6 <./figures//grafica1.png> <./figures//grafica2.png>] [7]
+LaTeX Font Info:    Trying to load font information for U+euf on input line 212.
  (C:\Users\Usuario\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
-) [7] [8] (main.aux)
+) [8] [9] (main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 18044 strings out of 476331
- 386383 string characters out of 5786822
+ 18051 strings out of 476331
+ 386495 string characters out of 5786822
  1861660 words of memory out of 5000000
- 38265 multiletter control sequences out of 15000+600000
- 525889 words of font info for 88 fonts, out of 8000000 for 9000
+ 38269 multiletter control sequences out of 15000+600000
+ 526196 words of font info for 89 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,15n,79p,956b,1497s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\Usuario\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/euler/eufm10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Usuario/AppData/Local/Programs/MiKTeX/fonts/type1/public/rsfs/rsfs10.pfb>
-Output written on main.pdf (8 pages, 936363 bytes).
+Output written on main.pdf (9 pages, 937384 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
+ 141 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
